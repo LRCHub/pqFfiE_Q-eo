@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スプリットダンス",
+  "base_artist": "えいぷ",
+  "createdAt": "2026-03-06T08:24:28.552147Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スプリットダンス",
+      "artist": "えいぷ, 初音ミク, 重音テト",
+      "has_synced": false,
+      "path": "select/pl_01_スプリットダンス_えいぷ,_初音ミク,_重音テト.txt"
+    }
+  ]
+}
